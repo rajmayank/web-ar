@@ -1,0 +1,10 @@
+{
+  "name": "web-ar",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "browser-sync start --server --files \"css/*.css\" --https"
+  },
+  "dependencies": {
+    
+  }
+}
